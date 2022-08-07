@@ -1,0 +1,5 @@
+Learning about the characteristics of a course before taking it is beneficial, in my opinion. How intensive it is, what preliminaries are helpful, and, most importantly, how enjoyable a course is, are just a few insightful attributes. During my studies, I often searched for such information about the courses I was about to take, yet never found such a source that was written by a student similar to me: a young, Academia in Highschool student.
+
+Such similarity is, as I learned along the way, quite relevant. That’s because young students often don’t have the full highschool preliminary knowledge as more mature students have. 
+
+After having completed my Computer Science degree at OUI before enlistment, I gained many insights, that I wish to share in this folder, from one young student to another. This folder contains my insights regarding some of the courses that I took in my degree. I tried to only include beneficial, non-biodegradable information. Hence ’dry data’ about the courses, which may change, are, for example, emitted. Note that the reviews are opinionated – a fact that wouldn’t be noted along, for convenience.
