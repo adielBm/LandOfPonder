@@ -9,6 +9,11 @@ The book is strongly recommended for ones interested in Science Fiction or in on
 
 ---
 
+### The Dark Forest
+As the sequel to *The Three-Body Problem*, it keeps up and even challenges the beauty of its predecessor. The book is full of silent wisdom, much like its predecessor, with an astonishing demonstration of new concepts and plot. The plot interlaces awe-inspiring landscapes, which I found to be delicate delights of imagination. As to the plot, nothing can express my opinion but the fact that I found myself self-exclaiming several times while reading,  in shock: *How is that possible?! No way! This is ingenious!!*
+
+---
+
 ### The Code Book
 The book covers the history of Cryptography.
 The Code Book offers a survey of the prominent events in the story of Cryptography, from ancient times to WW1 and WW2 and as far as modern Cryptography.
