@@ -6,7 +6,7 @@ There are several misconceptions regarding the benefits of earning a High-School
 1. [Introduction.](#introduction)
 2. [First Claim: The Intellectual Yield.](https://github.com/PonderingMira/LandOfPonder/blob/main/Youngling/Bagrut:%20Debunking%20Two%20Prevalent%20Claimed%20Benefits.md#first-claim-the-intellectual-yield)
 3. [Second Claim: The Practical Yield.](https://github.com/PonderingMira/LandOfPonder/blob/main/Youngling/Bagrut:%20Debunking%20Two%20Prevalent%20Claimed%20Benefits.md#second-claim-the-practical-yield)
-4. [Conclusions.](https://github.com/PonderingMira/LandOfPonder/new/main/Youngling#conclusions)
+4. [Conclusions.](https://github.com/PonderingMira/LandOfPonder/blob/main/Youngling/Bagrut:%20Debunking%20Two%20Prevalent%20Claimed%20Benefits.md#conclusions)
 ---
 
 ### Introduction
