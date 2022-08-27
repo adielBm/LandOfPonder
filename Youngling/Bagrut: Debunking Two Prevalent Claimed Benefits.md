@@ -2,7 +2,7 @@ There are several misconceptions regarding the benefits of earning a High-School
 
 *Note that all written isn't calling for action, this scribe merely contains my opinion as always. Further note that what's written is written by a person with certain qualities and shortcomings: bad memorization ability, interested in specific STEM subjects, and a good independent learner.*
 
-#### Table of Contents add links
+#### Table of Contents
 1. [Introduction.](#introduction)
 2. [First Claim: The Intellectual Yield.](https://github.com/PonderingMira/LandOfPonder/blob/main/Youngling/Bagrut:%20Debunking%20Two%20Prevalent%20Claimed%20Benefits.md#first-claim-the-intellectual-yield)
 3. [Second Claim: The Practical Yield.](https://github.com/PonderingMira/LandOfPonder/blob/main/Youngling/Bagrut:%20Debunking%20Two%20Prevalent%20Claimed%20Benefits.md#second-claim-the-practical-yield)
