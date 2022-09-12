@@ -1,6 +1,6 @@
 # Discrete Mathematics [20476]
 
-**About.** A lightweight course that deals with important results from *Group Theory*, *Combinatorics* and *Graph Theory*. It takes Ashnav's material on infinite cardinality further, developing mathematics that sets different infinite cardinalities apart (e.g. $\mathbb{R}$'s and $\mathbb{N}$'s cardinality), and even defines an order between such cardinalities. 
+**About.** A lightweight course that deals with important results from *Set Theory*, *Combinatorics* and *Graph Theory*. It takes Ashnav's material on infinite cardinality further, developing mathematics that sets different infinite cardinalities apart (e.g. $\mathbb{R}$'s and $\mathbb{N}$'s cardinality), and even defines an order between such cardinalities. 
 
 For example, we intuitively understand from Ashnav that $\mathbb{Z}$ and $\mathbb{N}$ have the same infinite cardinality, as they are equinumerous. It was also noted in Ashnav that the two sets aren't equinumerous to $\mathbb{R}$. The cardinalities of the three sets are all infinite, yet one cardinality ($|\mathbb{R}| =\aleph$) is 'bigger' than another ($|\mathbb{Z}| =|\mathbb{N}| =\aleph _0$).
 
@@ -19,6 +19,6 @@ The Graphs chapter confused me at first -- the objects seemed strange to me. It 
 The books were great (excluding the book on Combinatorics, which was ok).
 
 
-**Preliminaries.** Ashanv was very helpful to me. I believe that certain students will be fine without it, but Ashnav and this course have several overlapping topics, mainly in Group Theory.
+**Preliminaries.** Ashanv was very helpful to me. I believe that certain students will be fine without it, but Ashnav and this course have several overlapping topics, mainly in Set Theory.
 
 **Personal Note.** I did reference the course's books at a few later courses, so keep them.
